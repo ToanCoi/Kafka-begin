@@ -1,5 +1,5 @@
 # Kafka-begin
-Project which i learn kafka with .net core
+Project which i learn kafka with .net 6
 
 
 Tobegin: 
